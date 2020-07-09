@@ -14,6 +14,16 @@ In this project, we discuss a variety of problems:
 
 The papers listed below discuss each part of the project in-depth.
 
+## Libraries
+The following python libraries were used:
+* scikit-learn
+* matplotlib
+* SciPy
+* pandas
+* numpy
+* PyTorch
+* toolbox_02450 (a custom toolbox provided by DTU)
+
 ## Papers
 [Part1.pdf](http://Djensonsan.github.io/Titanic-Dataset-Project/Part1/Docs/Machine_Learning_Project_1.pdf) <br />
 [Part2.pdf](http://Djensonsan.github.io/Titanic-Dataset-Project/Part2/Docs/Machine_Learning_Project_2.pdf) <br />
