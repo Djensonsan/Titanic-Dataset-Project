@@ -1,11 +1,11 @@
 # Titanic-Dataset-Project
 This project was part of the course "Introduction to machine learning and data mining" taught at DTU (Technical University of Denmark), Copenhagen.
-<br /> The course description can be found here: https://kurser.dtu.dk/course/2019-2020/02450.
+<br /> The course description can be found here: [dtu/course/02450](https://kurser.dtu.dk/course/2019-2020/02450).
 
 ## Description
 Everyone (that hasn’t been living under a rock) has seen James Cameron’s 1997 block- buster ”Titanic”, starring the young and handsome Leonardo DiCaprio and Kate Winslet. Although most people are only interested in the dramatic aspect of ”modern history’s dead- liest peacetime commercial marine disaster”, we are mainly interested in finding underlying patterns in the survivability of the different groups of passengers and predicting whether a certain person would have been more likely to survive or die.
 
-We used the Titanic dataset from Kaggle: https://www.kaggle.com/c/titanic/overview.
+We used the Titanic dataset from Kaggle: [kaggle/titanic](https://www.kaggle.com/c/titanic/overview).
 
 In this project, we discuss a variety of problems:
 * Part 1: Discusses the relevant attributes of the dataset, it lists the issues of the dataset and how it was cleaned up. Next, a PCA is applied and the statistics of the dataset are summarized using tables and different visual techniques. 
